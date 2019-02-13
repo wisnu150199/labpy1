@@ -1,5 +1,5 @@
 # CARA MENAMPILKAN BILANGAN TERBESAR MENGGUNAKAN PYTHON
-1. Buka sublime
+1. Buka notepad++
 
 ![alt text](1.png)
 
