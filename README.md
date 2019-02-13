@@ -35,7 +35,7 @@ E. output (Sebagai penampil program)
 
 5. berikut ini adalah hasil eksekusi program
 
-![alt text](HASIL KODINGAN.png)
+![alt text](KODINGAN.png)
 
 6. Selesai
 
